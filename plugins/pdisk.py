@@ -1,5 +1,5 @@
 
-# (c) HeimanPictures
+# (c) HeimanPicture
 
 
 import logging
@@ -47,8 +47,8 @@ async def pdisk(bot, message):
             await message.reply_chat_action("typing")
             pdisk = "https://cofilink.com/share-video?videoid="+id      
             await message.reply_photo(
-                photo="https://static10.tgstat.ru/channels/_0/f3/f3218a8a0d195d12e73f6b69e51bbb4f.jpg",
-                caption="**URL:** `"+pdisk+"`\n\n**The PDisk Link Is Below The Provided Link Will Be Uploaded in few minutes.\n━━━━━━━━━━━━━━━\n⦿ Made With♥️BY @OO7ROBot\n━━━━━━━━━━━━━━━",
+                photo="https://telegra.ph/file/7389a320199583a2ac493.jpg",
+                caption="**URL:** `"+pdisk+"`\n\n**The PDisk Link Is Below The Provided Link Will Be Uploaded in few minutes.\n━━━━━━━━━━━━━━━━━━━━\n⦿ Made With♥️BY @OO7ROBot\n━━━━━━━━━━━━━━━━━━━━",
                 reply_markup=InlineKeyboardMarkup([
                     [ InlineKeyboardButton(text="🔗 PDisk Link 🔗", url=f"{pdisk}")],
                     [ InlineKeyboardButton(text="📡 Update Channel ❣️", url="https://telegram.me/MyTestBotZ")]
