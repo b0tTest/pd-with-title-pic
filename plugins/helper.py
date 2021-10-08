@@ -23,13 +23,13 @@ Send Me Any Direct Link Or YouTube or Video Link I Will Upload To PDisk And Give
 > __Support Custom Thumbnail__
 > __Support Custom Tittle Name__
 
-__ /help for More detail__
-**Made With❤BY @MyTestBotZ**
+__ • /help for More detail__
+**Made With❤BY  @MyTestBotZ**
 """
 
 HELP = """**How to Use Me...
 
-⦿ Its Easy to Use me {} **
+⦿ Its Easy to Use me **
 ✪ » __Send me Any Direct Link or YouTube Link__
 ✪ » __i will upload to PDisk & Give Link__
 
@@ -45,12 +45,12 @@ HELP = """**How to Use Me...
 **Or**
 
 ✪ » `Video link | Title | Thumbnail link`
-     __(generate Thumbnail Link with Telegraph bot[@TGraphXbot])__
+        __(generate Thumbnail Link with Telegraph bot[@TGraphXbot])__
 
 **NOTE**:
 ➢ __Do Not Spam, Send Link One By One, __
 ➢ __The Video File is Available on Your LINK ones Upload Process is Complete, it Take Time Depend on Your File Size & My Server Upload Speed
-So,be Patient 😴😴😴😴 __
+So,be Patient__ 😴😴😴😴
 """
 
 ABOUT = """➠ **My Name : PDisk Upload bot**
