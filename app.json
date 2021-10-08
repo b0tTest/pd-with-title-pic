@@ -13,9 +13,7 @@
     "thumbnail",
     "title"
   ],
-  "success_url": "https://telegram.me/PDiskXUploaderBot",
-  "website": "https://github.com/HeimanPictures/HeimanPictures/",
-  "repository": "https://github.com/HeimanPictures/Pdisk-Upload-Bot",
+  "success_url": "https://telegram.me/uptoPDiskBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string from botfather.",
