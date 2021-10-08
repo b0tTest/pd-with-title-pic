@@ -153,13 +153,13 @@ async def cb_data(bot, update):
         await update.message.edit_text(
             text=START.format(update.from_user.mention),
             disable_web_page_preview=True,
-            reply_markup=START_BUTTONS
+            reply_markup=SB
         )
     elif update.data == "help":
         await update.message.edit_text(
             text=HELP,
             disable_web_page_preview=True,
-            reply_markup=HELP_BUTTONS
+            reply_markup=HB
         )
     elif update.data == "about":
         await update.message.edit_text(
