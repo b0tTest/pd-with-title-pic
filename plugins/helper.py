@@ -24,7 +24,7 @@ Send Me Any Direct Link Or YouTube or Video Link I Will Upload To PDisk And Give
 > __Support Custom Tittle Name__
 
 __ • /help for More detail__
-**Made With❤BY  @MyTestBotZ**
+**Made With❤BY @MyTestBotZ**
 """
 
 HELP = """**How to Use Me...
@@ -38,6 +38,7 @@ HELP = """**How to Use Me...
 ✪ » __Copy Generated Link and Paste here...__
 ✪ » __Violaaaa.... Done__
 
+
 ➠ **If You Want add Custom Tittle & Thumbnail Follow These Steps**
 
 ✪ » `link | Title`
@@ -49,8 +50,7 @@ HELP = """**How to Use Me...
 
 **NOTE**:
 ➢ __Do Not Spam, Send Link One By One, __
-➢ __The Video File is Available on Your LINK ones Upload Process is Complete, it Take Time Depend on Your File Size & My Server Upload Speed
-So,be Patient__ 😴😴😴😴
+➢ __The Video File is Available on Your LINK ones Upload Process is Complete, it Take Time Depend on Your File Size & My Server Upload Speed So,be Patient__ 😴😴😴😴
 """
 
 ABOUT = """➠ **My Name : PDisk Upload bot**
@@ -58,10 +58,9 @@ ABOUT = """➠ **My Name : PDisk Upload bot**
 ➠ Credits : <code>Everyone in this journey</code>
 ➠ Language : <code>Python3.9.6</code>
 ➠ Library : <a href="https://docs.pyrogram.org/">Pyrogram v1.2.9</a>
-➠ Cloned From : <b>Paritosh Kumar</b> Source code
-➠ Source Code : 
 ➠ Server : <b>Heroku</b>
 ➠ Build Status : <b>Stable V1</b>
+➠ <i>Source Code</i> ⤵️
 """
 
 
@@ -70,7 +69,7 @@ SB = InlineKeyboardMarkup(
     InlineKeyboardButton("📡 Updates Channel", url="https://t.me/MyTestBotZ"),
     InlineKeyboardButton("⚙️ Help", callback_data="help")
   ],[
-    InlineKeyboardButton("🍿 Source Code 🍿", url="https://github.com/OO7ROBot/pdisk_uploader")
+    InlineKeyboardButton("🍿 Source Code 🍿", url="https://github.com/OO7ROBot/Pdisk-Upload-Bot")
   ],[
     InlineKeyboardButton("👨‍💻 Creator", url="https://t.me/OO7ROBOT"),
     InlineKeyboardButton("❣️BotsList", url="https://telegram.me/mybotzlist"),
@@ -88,7 +87,7 @@ HB = InlineKeyboardMarkup(
  
 AB = InlineKeyboardMarkup(
   [[
-    InlineKeyboardButton("🍿 Source 🍿", url="https://github.com/OO7ROBot/pdisk_uploader")
+    InlineKeyboardButton("🍿 Source Code 🍿", url="https://github.com/OO7ROBot/Pdisk-Upload-Bot")
   ],[
     InlineKeyboardButton("🏡 Home", callback_data="home"),
     InlineKeyboardButton("⚙️ Help", callback_data="help"),
